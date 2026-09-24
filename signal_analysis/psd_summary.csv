@@ -1,0 +1,4 @@
+signal_class,count,median_amplitude,median_q_total,median_psd
+Медленный класс (neutron/proton-like),1063,1196.0,14636.0,0.35622587305862286
+Быстрый класс (gamma/electron-like),863,1459.0,11147.5,0.14520611394163965
+Исключён: насыщение,74,15380.0,195134.0,0.17600412183212058
